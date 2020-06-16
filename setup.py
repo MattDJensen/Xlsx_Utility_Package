@@ -8,7 +8,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 setup(
     name="xlsxutility",
     packages=['xlsxutility'],
-    version="1.0",
+    version="1.1",
     author="Matthew Jensen",
     author_email="matt@matthewjensen.dev",
     description="Helper functions for .xlsx files",
